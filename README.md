@@ -1,1 +1,1 @@
-# python_template
+# pytemplate
